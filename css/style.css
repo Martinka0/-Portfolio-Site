@@ -1,0 +1,55 @@
+
+/* header */
+.full-name {
+  font: 'Assistant', sans-serif; font-size: 3em;
+  margin: 0.67em 0; text-align: right;
+
+}
+
+.headline {
+     font: 'Assistant' , sans-serif; font-size: 1.5em;
+     text-align: right;
+     }
+
+}
+.header-line {
+
+    height: 40px;
+    border-color: #7d97ad;
+
+}
+.logo { max-width: 10vw;
+        margin: 50px 20px 30px 5px;
+         }
+
+/* Text */
+h1,
+h2,
+    {
+    text-align: center;
+    text-transform: uppercase;
+    color: #2d3c49;
+}
+
+}
+/* Content */
+.main-photo {max-width: 100%;
+    }
+
+/* Footer */
+.featured-work {
+    color: #7d97ad;
+    kerning: 10em;
+}
+#footer-gallery1,
+#footer-gallery2,
+#footer-gallery3 {
+    text-align: center;
+
+    }
+
+.gallery { max-width: 100%;
+     }
+
+.gallery-image { max-width: 100%;
+     }
